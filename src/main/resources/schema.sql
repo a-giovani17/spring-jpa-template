@@ -1,0 +1,5 @@
+CREATE TABLE vessel (
+  id	INTEGER PRIMARY KEY,
+  name	VARCHAR(30),
+  owner	VARCHAR(30)
+);
